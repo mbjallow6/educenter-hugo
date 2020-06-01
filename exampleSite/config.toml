@@ -67,10 +67,6 @@ URL = "research"
 name = "research"
 parent = "Pages"
 [[menu.main]]
-URL = "blog"
-name = "blog"
-weight = 4
-[[menu.main]]
 URL = "contact"
 name = "Contact"
 weight = 5
